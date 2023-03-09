@@ -1,0 +1,5 @@
+ini adalah proses remote 
+yang mana kita mengendalikan repositori kita 
+dengan github yang ada di lokal kita 
+dengan itu kita bisa apluad
+ 
